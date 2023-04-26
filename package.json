@@ -1,13 +1,13 @@
 {
-  "name": "calculator",
+  "name": "cli-calculator-zia",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI Calculator App",
   "type":"module",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "./index.js",
+  "bin": "./dist/index.js",
   "keywords": [],
   "author": "",
   "license": "ISC"
